@@ -5,6 +5,6 @@ estatus do projeto: em desenvolvimento
 para rodar esse projeto na sua maquina digite :
 
 ```
-npm instal
+node app.js
 
 ``` 
